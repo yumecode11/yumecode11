@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# `Rust Engineer` | `Trading Bot Developer`
+
+Contact me on [X](https://x.com/yumecode11) 💬
+
 <!--
 **yumecode11/yumecode11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
